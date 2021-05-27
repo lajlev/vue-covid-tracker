@@ -5,7 +5,7 @@
       Covid-19 tracker
     </div>
     <p>
-      <a href="https://covid19api.com" target="_blank" class="text-blue-300">covid19api.com</a>
+      <a href="https://covid19api.com" target="_blank" class="text-blue-300">covid19api.com</a> &middot; <a href="https://www.youtube.com/watch?v=m-MAIpnH9ag" target="_blank" class="text-blue-300">Based on this tutorial</a>
     </p>
   </header>
 </template>
